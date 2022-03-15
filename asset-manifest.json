@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/first_react_pro/static/js/main.61b8604e.js",
+    "main.js": "/first_react_pro/static/js/main.93be05ff.js",
     "index.html": "/first_react_pro/index.html",
     "static/media/search.svg": "/first_react_pro/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "static/media/bulb.svg": "/first_react_pro/static/media/bulb.2f1eb5a4c57ab1ebde46b85378c5bcae.svg",
-    "main.61b8604e.js.map": "/first_react_pro/static/js/main.61b8604e.js.map"
+    "main.93be05ff.js.map": "/first_react_pro/static/js/main.93be05ff.js.map"
   },
   "entrypoints": [
-    "static/js/main.61b8604e.js"
+    "static/js/main.93be05ff.js"
   ]
 }
